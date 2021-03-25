@@ -1,2 +1,2 @@
 # blog
-用python写的博客系统
+用python-django写的博客系统
